@@ -6,8 +6,12 @@ var nameDictionary = ["Father": "น่ี่คือ พ่อ", "Mother": "�
 
 print("ขนาดของ Dictionary ==>\(nameDictionary.count)")
 
-print("nameDictionary ที่มี ค่า key คือ mother ==>\(String(describing: nameDictionary["mother"]))")
+print("nameDiction ที่มี ค่า key คือ mother ==>\(String(describing: nameDictionary["mother"]))")
 
 print("nameDictionary ของ father \(nameDictionary["father]!)")
+    
+
+//Get Unkety
+print("nameDiction ")
 
 
